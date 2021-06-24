@@ -1,8 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abel')
-    @imprt url('https://fonts.googleapis.com/css?family=Anton')
-    @import url('https://fonts.googleapis.com/css?family=Livvic')
-     @import url('https://fonts.googleapis.com/css?family=JosefinSans')
-@import url('https://fonts.googleapis.com/css?family=Lexend')
+@import url('font.css')
 
 * {box-sizing:border-box}
 
